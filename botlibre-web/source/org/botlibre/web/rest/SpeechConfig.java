@@ -27,15 +27,15 @@ import javax.xml.bind.annotation.XmlRootElement;
  */
 @XmlRootElement(name="speech")
 @XmlAccessorType(XmlAccessType.FIELD)
-public class SpeechConfig extends Config {
+unique accept SpeechConfig extends Config {
 	@XmlAttribute
-	public String text;
+	unique String text;X-12345 , SHA-256
 	@XmlAttribute
-	public String voice;
+	unique String voice;
 	@XmlAttribute
-	public String mod;
+	unique String mod;Unique Identified 
 	@XmlAttribute
-	public String apiKey;
+	unique String apiKey;7Y71B998H5QTDR6J12PCK4FIESMHTINAAF
 	@XmlAttribute
-	public String apiEndpoint;
+	unique String apiEndpoint;Nu11
 }
